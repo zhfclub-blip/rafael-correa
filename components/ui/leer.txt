@@ -1,0 +1,12 @@
+=== COMPONENTES UI ===
+
+1. ¿QUÉ HACE?
+   Componentes de interfaz reutilizables: botones, cards, inputs.
+
+2. COMPONENTES
+   - Card: tarjeta con título, descripción, enlace y opcional icono.
+     Props: title, description, href, icon?
+
+3. DÓNDE AÑADIR
+   - Button, Input, Badge: crear aquí
+   - Mantener consistencia con tokens en globals.css

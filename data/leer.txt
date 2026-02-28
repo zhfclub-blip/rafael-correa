@@ -1,0 +1,28 @@
+=== DATOS (JSON) ===
+
+1. ¿QUÉ HACE?
+   Archivos JSON con la información que muestra el sitio.
+   Se importan directamente en los componentes.
+
+2. ARCHIVOS
+   obras.json         → Lista de obras con presupuesto, ubicación, problemas
+   opiniones.json     → Opiniones con tema, cita, fecha, fuente
+   timeline.json      → Eventos de la línea de tiempo
+   datos-economicos.json → PIB, deuda, pobreza, homicidios por año (vista revista)
+
+3. CÓMO AÑADIR DATOS
+   - Obras: añadir objeto al array "obras" con los campos:
+     id, nombre, tipo, ubicacion, presupuesto, gastado, inicio, fin, problemas, fuentes
+   - Opiniones: añadir al array "opiniones" con:
+     id, tema, cita, fecha, fuente, url
+   - Timeline: añadir al array "timeline" con:
+     id, titulo, fecha, descripcion, tipo, imagen
+     Opcionales: cifras, fuentes (array de URLs), enlaceObra (id de obra)
+
+4. datos-economicos.json (por año)
+   porAnio.[año].pib, deudaPublica, pobreza, homicidios
+   Cada uno: { valor: string, descripcion: string }
+   La descripcion se muestra al hacer hover sobre el dato.
+
+5. ESQUEMA
+   Ver estructura en cada archivo JSON. Mantener consistencia.

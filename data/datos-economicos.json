@@ -1,0 +1,94 @@
+{
+  "porAnio": {
+    "2006": {
+      "pib": { "valor": "54.5B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "28.8%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "37.6%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "18.2", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2007": {
+      "pib": { "valor": "58.2B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "27.1%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "36.0%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "17.9", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2008": {
+      "pib": { "valor": "61.8B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "25.4%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "35.1%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "18.5", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2009": {
+      "pib": { "valor": "57.4B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "21.8%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "35.6%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "18.1", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2010": {
+      "pib": { "valor": "69.5B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "21.2%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "33.0%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "17.8", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2011": {
+      "pib": { "valor": "79.3B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "22.5%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "28.6%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "18.0", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2012": {
+      "pib": { "valor": "87.4B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "24.1%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "25.6%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "12.4", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2013": {
+      "pib": { "valor": "95.1B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "26.8%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "25.6%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "10.9", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2015": {
+      "pib": { "valor": "99.3B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "32.6%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "23.3%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "6.5", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2016": {
+      "pib": { "valor": "99.9B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "43.2%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "23.1%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "5.8", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2017": {
+      "pib": { "valor": "104.3B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "45.0%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "21.5%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "5.8", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2018": {
+      "pib": { "valor": "108.4B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "45.4%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "23.2%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "6.5", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2019": {
+      "pib": { "valor": "107.4B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "51.8%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "25.0%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "7.8", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2020": {
+      "pib": { "valor": "98.8B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "63.8%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "33.0%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "14.0", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    },
+    "2021": {
+      "pib": { "valor": "106.2B", "descripcion": "Producto Interno Bruto en millones USD" },
+      "deudaPublica": { "valor": "64.2%", "descripcion": "Deuda pública como porcentaje del PIB" },
+      "pobreza": { "valor": "27.7%", "descripcion": "Tasa de pobreza por ingresos (línea nacional)" },
+      "homicidios": { "valor": "14.0", "descripcion": "Tasa de homicidios por cada 100.000 habitantes" }
+    }
+  }
+}

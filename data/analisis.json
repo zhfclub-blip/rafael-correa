@@ -1,0 +1,147 @@
+{
+  "categorias": [
+    { "id": "todos", "label": "Todos los temas" },
+    { "id": "economia", "label": "Economía" },
+    { "id": "energia", "label": "Energía" },
+    { "id": "politica", "label": "Política" }
+  ],
+  "temas": [
+    {
+      "slug": "ley-de-herencias",
+      "titulo": "Ley de Herencias: ¿Cómo fue tergiversada por la prensa?",
+      "categoria": "economia",
+      "fecha": "2024-04-25",
+      "excerpt": "El debate sobre la Ley de Herencias giró más en torno a percepciones y afirmaciones imprecisas que sobre el texto y los números reales del proyecto.",
+      "imagen": "/images/analisis/ley-herencias.jpg",
+      "resumen": {
+        "titulo": "Resumen del Proyecto",
+        "puntos": [
+          "Propuesta por Rafael Correa en 2015 para gravar con mayor impuesto las herencias, legados y donaciones de alto valor.",
+          "Objetivo: redistribución de la riqueza y fomento de la equidad.",
+          "Solo afectaba a patrimonios heredados de gran valor, no a la clase media.",
+          "Incluía un impuesto progresivo según el monto heredado."
+        ]
+      },
+      "tablaPropuesta": {
+        "titulo": "Tabla propuesta en la Ley",
+        "columnas": ["Patrimonio heredado", "Tasa marginal de impuesto"],
+        "filas": [
+          ["Hasta $31.500", "0%"],
+          ["$31.500 - $63.000", "2,5%"],
+          ["$63.000 - $126.000", "5%"],
+          ["$126.000 - $252.000", "10%"],
+          ["$252.000 - $504.000", "15%"],
+          ["$504.000 - $960.000", "20%"],
+          ["Más de $960.000", "47,5%"]
+        ],
+        "nota": "El impuesto solo se aplicaba al monto que excedía cada tramo. Ejemplo: una herencia de $50.000 pagaba 0% hasta $31.500 y 2,5% solo sobre el exceso ($18.500)."
+      },
+      "queDeciaPrensa": [
+        { "cita": "Ley de herencias una amenaza para la clase media", "fuente": "Medios de prensa" },
+        { "cita": "Proyecto confiscaría la herencia de los ecuatorianos", "fuente": "Opinión editorial" },
+        { "cita": "Todos los ecuatorianos pagarían impuesto a la herencia", "fuente": "Oposición" }
+      ],
+      "comparativaInternacional": [
+        { "pais": "Ecuador (propuesta)", "tasaMax": 47.5 },
+        { "pais": "Francia", "tasaMax": 45 },
+        { "pais": "Japón", "tasaMax": 55 },
+        { "pais": "Corea del Sur", "tasaMax": 50 }
+      ],
+      "conclusion": "El debate sobre la Ley de Herencias giró más en torno a percepciones y afirmaciones imprecisas que sobre el texto y los números reales del proyecto. Los tramos exentos y progresivos demostraban que el impacto en la clase media era mínimo.",
+      "documentos": [
+        { "titulo": "Código Civil — Libro III (PDF)", "tipo": "pdf", "url": "/Documents/Analisis/Codigo_civil_libro_III.pdf" }
+      ]
+    },
+    {
+      "slug": "deuda-publica",
+      "titulo": "Deuda pública: lo que se dijo vs. lo que muestran los datos",
+      "categoria": "economia",
+      "fecha": "2024-03-10",
+      "excerpt": "La deuda pública durante el período 2007-2017 se gestionó con criterios de sostenibilidad. Aquí los números frente a las acusaciones de \"endeudamiento descontrolado\".",
+      "imagen": "/images/analisis/deuda-publica.jpg",
+      "resumen": {
+        "titulo": "Resumen: Deuda y sostenibilidad",
+        "puntos": [
+          "Entre 2007 y 2017 la deuda pública se destinó en gran medida a inversión (infraestructura, educación, salud), no solo a gasto corriente.",
+          "El ratio deuda/PIB se mantuvo en niveles manejables según estándares internacionales.",
+          "Se renegoció deuda externa en condiciones más favorables y se diversificaron fuentes de financiamiento.",
+          "Organismos como la CEPAL y el Banco Mundial documentaron la mejora en indicadores sociales y económicos del período."
+        ]
+      },
+      "tablaPropuesta": {
+        "titulo": "Deuda pública total (% PIB) — referencia histórica",
+        "columnas": ["Año", "Deuda % PIB"],
+        "filas": [
+          ["2006", "~24%"],
+          ["2010", "~18%"],
+          ["2014", "~32%"],
+          ["2017", "~43%"]
+        ],
+        "nota": "El aumento en años posteriores refleja en parte la caída del precio del petróleo y la apreciación del dólar. Varios países de la región mantienen ratios superiores al 50%."
+      },
+      "queDeciaPrensa": [
+        { "cita": "Ecuador en bancarrota por la deuda contraída", "fuente": "Medios y oposición" },
+        { "cita": "Endeudamiento descontrolado sin capacidad de pago", "fuente": "Opinión editorial" },
+        { "cita": "La deuda china hipoteca el país", "fuente": "Prensa" }
+      ],
+      "comparativaInternacional": [
+        { "pais": "Ecuador (2017)", "tasaMax": 43 },
+        { "pais": "Argentina", "tasaMax": 90 },
+        { "pais": "Brasil", "tasaMax": 77 },
+        { "pais": "Colombia", "tasaMax": 50 }
+      ],
+      "conclusion": "Los datos muestran que la deuda se utilizó en buena parte para inversión productiva y que el ratio deuda/PIB, aunque creció, estuvo dentro de rangos observados en la región. Las afirmaciones de \"bancarrota\" o \"endeudamiento descontrolado\" no se sostienen frente a las cifras oficiales y comparativas.",
+      "documentos": []
+    },
+    {
+      "slug": "refineria-del-pacifico",
+      "titulo": "Refinería del Pacífico: inversión estratégica o \"elefante blanco\"",
+      "categoria": "energia",
+      "fecha": "2024-02-15",
+      "excerpt": "Análisis del proyecto de la Refinería del Pacífico, su estado y el contraste entre las críticas mediáticas y los objetivos de política energética.",
+      "imagen": "/images/analisis/refineria.jpg",
+      "resumen": {
+        "titulo": "Resumen del proyecto",
+        "puntos": [
+          "Proyecto binacional Ecuador-Venezuela para reducir la dependencia de importación de derivados de petróleo.",
+          "Objetivo: refinar crudo nacional y abastecer el mercado interno y regional.",
+          "El proyecto enfrentó retrasos por factores geopolíticos, financieros y cambios de gobierno.",
+          "La infraestructura y el diseño respondían a estándares internacionales."
+        ]
+      },
+      "tablaPropuesta": null,
+      "queDeciaPrensa": [
+        { "cita": "Elefante blanco que nunca funcionará", "fuente": "Medios" },
+        { "cita": "Dinero tirado a la basura", "fuente": "Oposición" }
+      ],
+      "comparativaInternacional": [],
+      "conclusion": "La Refinería del Pacífico fue concebida como una pieza de soberanía energética. Su evolución debe analizarse con datos de avance, costos y contexto regional, no solo con titulares.",
+      "documentos": []
+    },
+    {
+      "slug": "subsidios",
+      "titulo": "Subsidios a combustibles: qué se dijo y qué implicaba reformarlos",
+      "categoria": "economia",
+      "fecha": "2024-01-20",
+      "excerpt": "Los subsidios a gasolina y diésel fueron tema de debate. Aquí el contexto de su origen, costo fiscal y las narrativas que se enfrentaron.",
+      "imagen": "/images/analisis/subsidios.jpg",
+      "resumen": {
+        "titulo": "Contexto de los subsidios",
+        "puntos": [
+          "Subsidios históricos a combustibles en Ecuador, con alto costo para el Estado.",
+          "Cualquier ajuste generaba protestas y acusaciones de \"paquetazo\".",
+          "La eliminación o reducción de subsidios fue propuesta en distintos momentos con el argumento de focalizar el gasto en los más necesitados.",
+          "Los datos de beneficiarios (incluido contrabando) mostraban que no solo los más pobres se beneficiaban."
+        ]
+      },
+      "tablaPropuesta": null,
+      "queDeciaPrensa": [
+        { "cita": "Quitar subsidios es atacar a los pobres", "fuente": "Sectores políticos y medios" },
+        { "cita": "El gobierno solo quiere recortar derechos", "fuente": "Oposición" }
+      ],
+      "comparativaInternacional": [],
+      "conclusion": "El debate sobre subsidios requiere separar el impacto real en la población vulnerable del costo fiscal y del uso indebido (contrabando). Las cifras y la focalización son centrales.",
+      "documentos": []
+    }
+  ]
+}

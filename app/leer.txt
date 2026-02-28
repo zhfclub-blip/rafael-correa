@@ -1,0 +1,23 @@
+=== APP - RUTAS Y PÁGINAS ===
+
+1. ¿QUÉ HACE?
+   Contiene todas las páginas del sitio. Next.js usa el App Router:
+   cada carpeta con page.tsx es una ruta.
+
+2. ¿CÓMO FUNCIONA?
+   - layout.tsx: envuelve todas las páginas (header, fuentes)
+   - page.tsx en cada carpeta = ruta
+   - [id] = ruta dinámica (ej. /obras/1)
+
+3. ESTRUCTURA
+   page.tsx       → /
+   obras/page.tsx  → /obras
+   obras/[id]/page.tsx → /obras/1, /obras/2, etc.
+   timeline/page.tsx   → /timeline
+   opiniones/page.tsx  → /opiniones
+   datos/page.tsx      → /datos
+
+4. DÓNDE MODIFICAR
+   - Añadir página: crear carpeta nueva con page.tsx
+   - Cambiar layout global: layout.tsx
+   - Estilos globales: globals.css

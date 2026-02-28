@@ -1,0 +1,36 @@
+{
+  "opiniones": [
+    {
+      "id": "1",
+      "tema": "petróleo",
+      "cita": "Ecuador necesita explotar responsablemente sus recursos para financiar la educación y la salud. La alternativa es seguir dependiendo del FMI.",
+      "fecha": "2024-01-15",
+      "fuente": "Twitter/X",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "tema": "Yasuní",
+      "cita": "La decisión de explotar el ITT fue la más difícil de mi gobierno. Pero con el precio del petróleo en el suelo, no había otra opción para el país.",
+      "fecha": "2023-08-20",
+      "fuente": "Entrevista",
+      "url": ""
+    },
+    {
+      "id": "3",
+      "tema": "economía",
+      "cita": "La dolarización nos salvó en su momento, pero hoy es una camisa de fuerza. No podemos devaluar para ser competitivos.",
+      "fecha": "2024-02-10",
+      "fuente": "Podcast",
+      "url": ""
+    },
+    {
+      "id": "4",
+      "tema": "corrupción",
+      "cita": "Nunca toleré la corrupción. Cualquier caso que se demuestre debe ser sancionado. Pero también hay persecución política.",
+      "fecha": "2023-11-05",
+      "fuente": "Declaración",
+      "url": ""
+    }
+  ]
+}

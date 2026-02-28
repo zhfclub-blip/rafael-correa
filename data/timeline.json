@@ -1,0 +1,261 @@
+{
+  "timeline": 
+     [
+      {
+        "id": "1",
+        "titulo": "Elección presidencial 2006",
+        "fecha": "2006-11-26",
+        "descripcion": "Rafael Correa gana la segunda vuelta con el 56.7% de los votos, derrotando a Álvaro Noboa.",
+        "tipo": "politico",
+        "imagen": "/images/timeline/eleccion-2006.jpg",
+        "cifras": "56.7% de votos en segunda vuelta",
+        "fuentes": ["https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2006"]
+      },
+      {
+        "id": "2",
+        "titulo": "Posesión presidencial",
+        "fecha": "2007-01-15",
+        "descripcion": "Rafael Correa asume oficialmente la Presidencia del Ecuador para el período 2007-2011.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "3",
+        "titulo": "Convocatoria a Asamblea Constituyente",
+        "fecha": "2007-04-15",
+        "descripcion": "Se aprueba en referéndum la convocatoria a una Asamblea Constituyente con plenos poderes.",
+        "tipo": "politico",
+        "imagen": "/images/timeline/eleccion-2006.jpg"
+      },
+      {
+        "id": "4",
+        "titulo": "Elección de asambleístas constituyentes",
+        "fecha": "2007-09-30",
+        "descripcion": "El movimiento Alianza PAIS obtiene amplia mayoría en la Asamblea Constituyente.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "5",
+        "titulo": "Aprobación de la Constitución de Montecristi",
+        "fecha": "2008-09-28",
+        "descripcion": "El pueblo ecuatoriano aprueba en referéndum la nueva Constitución, que redefine el modelo político y económico del país.",
+        "tipo": "legal",
+        "imagen": "",
+        "cifras": "63.93% de votos a favor en referéndum",
+        "fuentes": ["https://es.wikipedia.org/wiki/Constituci%C3%B3n_de_Ecuador_de_2008"]
+      },
+      {
+        "id": "6",
+        "titulo": "Reelección presidencial 2009",
+        "fecha": "2009-04-26",
+        "descripcion": "Correa es reelegido en primera vuelta bajo la nueva Constitución.",
+        "tipo": "politico",
+        "imagen": "",
+        "cifras": "52% de votos en primera vuelta"
+      },
+      {
+        "id": "7",
+        "titulo": "Declaratoria de default parcial de la deuda externa",
+        "fecha": "2008-12-12",
+        "descripcion": "El gobierno declara ilegítima parte de la deuda externa y suspende pagos de ciertos bonos globales.",
+        "tipo": "economico",
+        "imagen": ""
+      },
+      {
+        "id": "8",
+        "titulo": "Renegociación de contratos petroleros",
+        "fecha": "2010-11-23",
+        "descripcion": "Se reforman contratos con petroleras para que el Estado reciba mayor porcentaje de ingresos.",
+        "tipo": "economico",
+        "imagen": ""
+      },
+      {
+        "id": "9",
+        "titulo": "Crisis policial 30-S",
+        "fecha": "2010-09-30",
+        "descripcion": "Una sublevación policial genera una crisis institucional; Correa denuncia intento de golpe de Estado.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "10",
+        "titulo": "Expulsión de diplomáticos estadounidenses",
+        "fecha": "2011-04-07",
+        "descripcion": "Ecuador expulsa a la embajadora de EE.UU. tras filtraciones diplomáticas.",
+        "tipo": "internacional",
+        "imagen": ""
+      },
+      {
+        "id": "11",
+        "titulo": "Referéndum y consulta popular 2011",
+        "fecha": "2011-05-07",
+        "descripcion": "Se aprueban reformas en justicia, medios de comunicación y regulación financiera.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "12",
+        "titulo": "Asilo a Julian Assange",
+        "fecha": "2012-08-16",
+        "descripcion": "Ecuador concede asilo diplomático a Julian Assange en su embajada en Londres.",
+        "tipo": "internacional",
+        "imagen": ""
+      },
+      {
+        "id": "13",
+        "titulo": "Reelección presidencial 2013",
+        "fecha": "2013-02-17",
+        "descripcion": "Correa es reelegido con amplia mayoría para el período 2013-2017.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "14",
+        "titulo": "Ley Orgánica de Comunicación",
+        "fecha": "2013-06-25",
+        "descripcion": "Se aprueba la Ley de Comunicación, generando debate sobre libertad de prensa.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "15",
+        "titulo": "Iniciativa Yasuní-ITT cancelada",
+        "fecha": "2013-08-15",
+        "descripcion": "El gobierno da por terminada la iniciativa de dejar el petróleo bajo tierra en el Yasuní.",
+        "tipo": "economico",
+        "imagen": ""
+      },
+      {
+        "id": "16",
+        "titulo": "Ingreso a la Alianza Bolivariana (ALBA)",
+        "fecha": "2009-06-24",
+        "descripcion": "Ecuador se integra formalmente al ALBA, fortaleciendo vínculos con Venezuela y Cuba.",
+        "tipo": "internacional",
+        "imagen": ""
+      },
+      {
+        "id": "17",
+        "titulo": "Ingreso a UNASUR",
+        "fecha": "2008-05-23",
+        "descripcion": "Ecuador participa en la creación de la Unión de Naciones Suramericanas.",
+        "tipo": "internacional",
+        "imagen": ""
+      },
+      {
+        "id": "18",
+        "titulo": "Inauguración del proyecto hidroeléctrico Coca Codo Sinclair",
+        "fecha": "2016-11-18",
+        "descripcion": "Se inaugura la mayor central hidroeléctrica del país, financiada con apoyo chino.",
+        "tipo": "economico",
+        "imagen": "",
+        "cifras": "1500 MW de capacidad instalada",
+        "enlaceObra": "2",
+        "fuentes": ["https://es.wikipedia.org/wiki/Coca_Codo_Sinclair"]
+      },
+      {
+        "id": "19",
+        "titulo": "Terremoto de Manabí",
+        "fecha": "2016-04-16",
+        "descripcion": "Un terremoto de magnitud 7.8 deja cientos de fallecidos y severos daños en la costa ecuatoriana.",
+        "tipo": "social",
+        "imagen": ""
+      },
+      {
+        "id": "20",
+        "titulo": "Ley de Plusvalía",
+        "fecha": "2016-12-29",
+        "descripcion": "Se aprueba la ley que grava las ganancias extraordinarias en la venta de bienes inmuebles.",
+        "tipo": "economico",
+        "imagen": ""
+      },
+      {
+        "id": "21",
+        "titulo": "Salida de la Base de Manta",
+        "fecha": "2009-09-18",
+        "descripcion": "Finaliza el convenio que permitía la operación de una base militar estadounidense en Manta.",
+        "tipo": "internacional",
+        "imagen": ""
+      },
+      {
+        "id": "22",
+        "titulo": "Demanda contra diario El Universo",
+        "fecha": "2011-07-21",
+        "descripcion": "Correa presenta demanda por injurias contra directivos y un columnista del diario.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "23",
+        "titulo": "Indulto a El Universo",
+        "fecha": "2012-02-27",
+        "descripcion": "Correa otorga perdón a los condenados en el caso El Universo.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "24",
+        "titulo": "Reforma constitucional sobre reelección indefinida",
+        "fecha": "2015-12-03",
+        "descripcion": "La Asamblea aprueba enmiendas que permiten la reelección indefinida de autoridades.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "25",
+        "titulo": "Fin del mandato presidencial",
+        "fecha": "2017-05-24",
+        "descripcion": "Correa entrega el poder a Lenín Moreno tras 10 años en la presidencia.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "26",
+        "titulo": "Residencia en Bélgica",
+        "fecha": "2017-07-01",
+        "descripcion": "Correa se traslada a Bélgica tras dejar la presidencia.",
+        "tipo": "personal",
+        "imagen": ""
+      },
+      {
+        "id": "27",
+        "titulo": "Orden de prisión preventiva (caso Balda)",
+        "fecha": "2018-07-03",
+        "descripcion": "La justicia ecuatoriana dicta prisión preventiva en su contra por el caso Balda.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "28",
+        "titulo": "Sentencia por caso Sobornos 2012-2016",
+        "fecha": "2020-04-07",
+        "descripcion": "La Corte Nacional de Justicia lo sentencia a 8 años de prisión por cohecho.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "29",
+        "titulo": "Ratificación de sentencia en última instancia",
+        "fecha": "2020-09-07",
+        "descripcion": "Se ratifica la condena en el caso Sobornos, quedando en firme.",
+        "tipo": "legal",
+        "imagen": ""
+      },
+      {
+        "id": "30",
+        "titulo": "Elecciones presidenciales 2021",
+        "fecha": "2021-02-07",
+        "descripcion": "Andrés Arauz, candidato cercano a Correa, participa en elecciones presidenciales.",
+        "tipo": "politico",
+        "imagen": ""
+      },
+      {
+        "id": "31",
+        "titulo": "Revocatoria de asilo de Julian Assange",
+        "fecha": "2019-04-11",
+        "descripcion": "El gobierno de Lenín Moreno retira el asilo a Assange, marcando ruptura con la política exterior previa.",
+        "tipo": "internacional",
+        "imagen": ""
+      }
+    ]
+}

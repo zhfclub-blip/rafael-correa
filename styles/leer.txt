@@ -1,0 +1,16 @@
+=== ESTILOS Y DISEÑO ===
+
+1. ¿QUÉ HACE?
+   Tokens de diseño y estilos globales.
+
+2. UBICACIÓN
+   - app/globals.css: variables CSS y utilidades
+   - tailwind.config.ts: tema Tailwind (colores, fuentes)
+
+3. TOKENS (variables en :root)
+   --color-fondo, --color-texto, --color-accento
+   --radio-borde, --sombra-card, --transicion-rapida
+
+4. CÓMO CAMBIAR
+   - Paleta: tailwind.config.ts (colors) y globals.css (:root)
+   - Fuentes: layout.tsx (next/font) y tailwind.config.ts (fontFamily)

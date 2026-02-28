@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Variables CSS - tokens de diseño */
+:root {
+  --color-fondo: #fafafa;
+  --color-texto: #1a1a1a;
+  --color-accento: #1976d2;
+  --color-accento-hover: #1565c0;
+  --radio-borde: 12px;
+  --sombra-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --sombra-card-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --transicion-rapida: 200ms ease;
+
+  /* Tema campaña: oscuro cósmico + dorado */
+  --camp-bg-dark: #0a0e1a;
+  --camp-bg-mid: #0f1629;
+  --camp-bg-card: rgba(15, 22, 41, 0.85);
+  --camp-gold: #d4a84b;
+  --camp-gold-light: #e8c56a;
+  --camp-glow-blue: #4a7cba;
+  --camp-text: #ffffff;
+  --camp-text-muted: #e2e8f0;
+}
+
+body {
+  background-color: var(--color-fondo);
+  color: var(--color-texto);
+}
+
+/* En la página de inicio, todo el texto debe verse claro sobre fondo oscuro */
+html.page-inicio body {
+  color: #ffffff;
+}
+
+/* Transiciones suaves para cards y botones */
+.card-hover {
+  transition: transform var(--transicion-rapida),
+    box-shadow var(--transicion-rapida);
+}
+
+.card-hover:hover {
+  transform: scale(1.02);
+  box-shadow: var(--sombra-card-hover);
+}
+
+/* Timeline horizontal estilo ICMIF */
+.timeline-icmif {
+  padding-bottom: 2rem;
+}
+.timeline-icmif .overflow-x-auto {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-accento) rgba(0, 0, 0, 0.1);
+}
+.timeline-icmif .overflow-x-auto::-webkit-scrollbar {
+  height: 8px;
+}
+.timeline-icmif .overflow-x-auto::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.06);
+  border-radius: 4px;
+}
+.timeline-icmif .overflow-x-auto::-webkit-scrollbar-thumb {
+  background: var(--color-accento);
+  border-radius: 4px;
+}
+.timeline-icmif .overflow-x-auto::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accento-hover);
+}
+
+/* Timeline vista revista histórica */
+.timeline-revista {
+  padding-bottom: 2rem;
+}

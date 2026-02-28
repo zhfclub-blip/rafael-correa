@@ -1,0 +1,36 @@
+=== RAFAEL CORREA WEB - GUÍA PRINCIPAL ===
+
+1. ¿QUÉ ES ESTE PROYECTO?
+   Sitio web sobre Rafael Correa: obras, trayectoria, opiniones y datos.
+   Frontend en Next.js + React + Tailwind. Sin backend por ahora.
+
+2. ¿CÓMO INICIAR EL PROYECTO?
+   - Abrir terminal en esta carpeta
+   - Ejecutar: npm install
+   - Ejecutar: npm run dev
+   - Abrir en el navegador: http://localhost:3000
+
+3. ESTRUCTURA DE CARPETAS
+   /app          → Páginas y rutas (Next.js App Router)
+   /components   → Componentes React reutilizables
+   /data         → Archivos JSON con obras, opiniones, timeline
+   /styles       → (opcional) Estilos adicionales
+
+4. RUTAS DISPONIBLES
+   /             → Página principal (Home)
+   /obras        → Lista de obras
+   /obras/[id]   → Detalle de una obra
+   /timeline     → Línea de tiempo
+   /opiniones    → Opiniones (búsqueda pendiente)
+   /datos        → Gráficos y visualizaciones
+
+5. PRÓXIMAS FUNCIONALIDADES
+   - Mapa interactivo en /obras (Leaflet)
+   - Timeline interactiva (react-chrono)
+   - Buscador de opiniones (Fuse.js)
+   - Gráficos (Recharts)
+
+6. DÓNDE MODIFICAR
+   - Añadir obras/opiniones/eventos: editar archivos en /data
+   - Cambiar diseño: app/globals.css, tailwind.config.ts
+   - Añadir páginas: crear carpeta en /app con page.tsx

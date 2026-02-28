@@ -1,0 +1,36 @@
+=== TIMELINE (estilo ICMIF) ===
+
+1. ¿QUÉ HACE?
+   Línea de tiempo horizontal con scroll. En la línea solo se muestran PUNTOS (sin cards
+   inline) para evitar que los eventos se tapen. Al hacer clic en un punto se abre un
+   modal con: imagen (si existe en el evento), fecha, título, descripción y un bloque
+   "Más información" para ampliar después.
+
+2. ¿CÓMO FUNCIONA?
+   - Eventos ordenados por fecha; cada uno es un punto sobre la línea central.
+   - YEAR_WIDTH_PX = 280 px por año → más espacio y menos solapamiento.
+   - Hover en un punto: tooltip con el título.
+   - Clic en un punto: abre ModalEvento (imagen, texto, sección "Más información").
+   - Botones de año arriba hacen scroll suave. Cerrar modal: botón X o clic fuera.
+
+3. ¿DÓNDE MODIFICAR?
+   - Eventos e imágenes: data/timeline.json. Campo "imagen": URL (https://...) o ruta
+     desde public (ej. "/timeline/evento1.jpg"). Si está vacío se muestra placeholder.
+   - Contenido adicional en el modal: ModalEvento muestra cifras, enlaceObra y fuentes
+     si están en el JSON. Añadir en data/timeline.json: cifras, fuentes[], enlaceObra.
+   - Rango o densidad: YEAR_START, YEAR_END, YEAR_WIDTH_PX en TimelineICMIF.tsx.
+
+4. SOLUCIONES APLICADAS AL SOLAPAMIENTO
+   - Sin cards en la línea: solo puntos → cero solapamiento visual.
+   - Más px por año (280): puntos más separados.
+   - Detalle en modal al clic: toda la información (incl. imagen) en un único panel.
+
+5. DEPENDENCIAS
+   - Usa: Tailwind, variables CSS del proyecto.
+   - Es usado por: app/timeline/page.tsx.
+
+6. CAMPOS OPCIONALES EN timeline.json
+   - cifras: string (ej. "56.7% de votos")
+   - fuentes: string[] (URLs de referencias)
+   - enlaceObra: string (id de obra en obras.json, enlaza a /obras/[id])
+   - Opcional: filtro por tipo, vista móvil compacta.

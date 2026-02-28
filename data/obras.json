@@ -1,0 +1,64 @@
+{
+  "obras": [
+    {
+      "id": "1",
+      "nombre": "Hospital del IESS Quito Norte",
+      "tipo": "salud",
+      "ubicacion": { "lat": -0.22, "lng": -78.51, "ciudad": "Quito" },
+      "presupuesto": 52000000,
+      "gastado": 48500000,
+      "inicio": "2012",
+      "fin": "2015",
+      "problemas": ["Retrasos en entrega", "Sobrecostos"],
+      "fuentes": []
+    },
+    {
+      "id": "2",
+      "nombre": "Hidroeléctrica Coca Codo Sinclair",
+      "tipo": "energia",
+      "ubicacion": { "lat": -0.33, "lng": -77.89, "ciudad": "El Chaco" },
+      "presupuesto": 2200000000,
+      "gastado": 2350000000,
+      "inicio": "2010",
+      "fin": "2016",
+      "problemas": ["Grietas en turbinas", "Sobrecostos"],
+      "fuentes": []
+    },
+    {
+      "id": "3",
+      "nombre": "Refinería del Pacífico",
+      "tipo": "petroleo",
+      "ubicacion": { "lat": -2.19, "lng": -79.89, "ciudad": "El Oro" },
+      "presupuesto": 12000000000,
+      "gastado": 4500000000,
+      "inicio": "2008",
+      "fin": "2017",
+      "problemas": ["Proyecto inconcluso", "Retrasos"],
+      "fuentes": []
+    },
+    {
+      "id": "4",
+      "nombre": "Yachay - Ciudad del Conocimiento",
+      "tipo": "educacion",
+      "ubicacion": { "lat": 0.07, "lng": -78.69, "ciudad": "Imbabura" },
+      "presupuesto": 1200000000,
+      "gastado": 850000000,
+      "inicio": "2013",
+      "fin": "2017",
+      "problemas": ["Subutilización"],
+      "fuentes": []
+    },
+    {
+      "id": "5",
+      "nombre": "Carretera Quito - Guayaquil (tramo Alóag)",
+      "tipo": "infraestructura",
+      "ubicacion": { "lat": -0.45, "lng": -78.62, "ciudad": "Pichincha" },
+      "presupuesto": 180000000,
+      "gastado": 165000000,
+      "inicio": "2011",
+      "fin": "2014",
+      "problemas": [],
+      "fuentes": []
+    }
+  ]
+}

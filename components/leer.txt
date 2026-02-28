@@ -1,0 +1,16 @@
+=== COMPONENTES ===
+
+1. ¿QUÉ HACE?
+   Componentes React reutilizables en toda la app.
+
+2. COMPONENTES ACTUALES
+   - Header: navegación principal, menú móvil
+   - ui/Card: tarjeta con título, descripción y enlace
+
+3. DÓNDE AÑADIR
+   - Componentes UI (botones, inputs): /components/ui/
+   - Componentes de sección (mapa, timeline): crear subcarpeta
+     ej. components/mapa/MapaObras.tsx
+
+4. CÓMO USAR
+   import NombreComponente from "@/components/NombreComponente";

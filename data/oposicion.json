@@ -1,0 +1,101 @@
+{
+  "categorias": [
+    { "id": "medios-comunicacion", "label": "Medios de comunicación" },
+    { "id": "florindos", "label": "Florindos (fachos o entreguistas)" },
+    { "id": "intervencion-extranjera", "label": "Intervención extranjera" }
+  ],
+  "posts": [
+    {
+      "slug": "influencia-medios-comunicacion",
+      "titulo": "La influencia de los medios de comunicación en la opinión pública",
+      "categoria": "medios-comunicacion",
+      "fecha": "2024-05-01",
+      "excerpt": "Análisis del rol de los grandes medios en la construcción del relato político y su impacto en el debate democrático durante la década 2007-2017.",
+      "imagen": "",
+      "contenido": {
+        "introduccion": "Los medios de comunicación masivos cumplen un papel central en la formación de la opinión pública. Durante el gobierno de la Revolución Ciudadana, la relación entre el Estado y ciertos conglomerados mediáticos fue objeto de controversia y de narrativas que conviene analizar con datos y contexto.",
+        "secciones": [
+          {
+            "titulo": "Concentración y propiedad",
+            "texto": "En Ecuador, como en gran parte de Latinoamérica, la propiedad de los medios está concentrada en pocas manos. Diversos informes (incluidos de CIESPAL y organismos internacionales) han documentado vínculos entre grupos mediáticos y sectores económicos o políticos tradicionales. Esto no invalida la libertad de prensa, pero sí ayuda a entender los marcos desde los cuales se construyen algunas noticias y editoriales.",
+            "datos": [
+              { "label": "Medios con mayor audiencia (radio/TV)", "valor": "Concentrados en 3-4 grupos empresariales" },
+              { "label": "Cobertura de temas de gobierno", "valor": "Desbalance documentado en estudios de monitoreo de medios" }
+            ]
+          },
+          {
+            "titulo": "Narrativas y encuadres",
+            "texto": "El concepto de \"encuadre\" (framing) en comunicación política describe cómo los medios destacan ciertos aspectos de un hecho y omiten otros. Durante la década analizada, temas como la inversión pública, la renegociación de la deuda o las políticas sociales fueron frecuentemente enmarcados desde ángulos críticos o catastróficos, en contraste con indicadores objetivos (reducción de pobreza, aumento del gasto en educación, etc.).",
+            "datos": []
+          },
+          {
+            "titulo": "Impacto en la opinión pública",
+            "texto": "La exposición prolongada a un mismo tipo de encuadre puede influir en la percepción de la ciudadanía. No se trata de afirmar que \"los medios manipulan\", sino de reconocer que la selección y el tratamiento de la información tienen consecuencias. Estudios de opinión y comportamiento electoral en la región muestran correlaciones entre consumo mediático y posicionamiento político.",
+            "datos": [
+              { "label": "Consumo de noticias (encuestas)", "valor": "TV y redes como principal fuente para la mayoría" },
+              { "label": "Confianza en medios (Latinobarómetro y similares)", "valor": "En descenso en varios países de la región" }
+            ]
+          }
+        ],
+        "conclusion": "Entender la influencia de los medios no implica demonizarlos, sino exigir transparencia, diversidad de voces y contraste con datos. Este espacio busca aportar contexto y fuentes para un debate más informado."
+      },
+      "citas": [
+        { "texto": "Editoriales y titulares de portada durante episodios clave (ley de medios, consultas) mostraron un alineamiento claro con la oposición.", "fuente": "Informes de monitoreo de medios" },
+        { "texto": "La polarización mediática reflejaba la polarización política del país.", "fuente": "Análisis académicos de comunicación" }
+      ],
+      "documentos": []
+    },
+    {
+      "slug": "tc-television-fidel-egas-banco-pichincha",
+      "titulo": "TC Televisión, Fidel Egas y Banco Pichincha: un medio como arma contra el gobierno",
+      "categoria": "medios-comunicacion",
+      "fecha": "2024-06-15",
+      "excerpt": "Análisis del rol de TC Televisión bajo Fidel Egas, su vínculo con el poder financiero (Banco Pichincha) y el uso del canal como herramienta de ataque a Rafael Correa en un contexto de escaso acceso a internet.",
+      "imagen": "",
+      "contenido": {
+        "introduccion": "TC Televisión fue durante la década 2007-2017 uno de los canales de señal abierta con mayor alcance en Ecuador. Su propietario, Fidel Egas, mantuvo vínculos con el sector bancario —en particular con Banco Pichincha— y con sectores económicos tradicionales. En una época en que el acceso a internet era aún limitado para gran parte de la población, la televisión seguía siendo la principal fuente de noticias y opinión. Ese contexto convirtió a medios como TC en actores decisivos para defender intereses económicos y atacar al gobierno de la Revolución Ciudadana.",
+        "secciones": [
+          {
+            "titulo": "Fidel Egas, TC Televisión y el poder económico",
+            "texto": "Fidel Egas fue el principal accionista y figura detrás de TC Televisión. Su nombre apareció de forma recurrente en el debate público por su participación en el directorio o en la órbita de Banco Pichincha, uno de los mayores bancos del país. Esa doble condición —dueño de un medio de alcance nacional y vinculado al sistema financiero— ilustra la concentración de poder: quien controla información y quien controla crédito suelen ser los mismos grupos. Durante el gobierno de Correa, políticas como la renegociación de la deuda, el control a la banca o las reformas tributarias afectaron directamente a la banca y a sectores que históricamente habían tenido influencia en la política. TC Televisión, en ese marco, no fue un observador neutral sino un actor alineado con los intereses de esos sectores.",
+            "datos": [
+              { "label": "Alcance de TC Televisión (época)", "valor": "Uno de los canales de mayor audiencia en Ecuador" },
+              { "label": "Vínculo Egas–Banco Pichincha", "valor": "Documentado en prensa y en debates de la Asamblea" },
+              { "label": "Acceso a internet en Ecuador (aprox. 2007–2012)", "valor": "Muy inferior al actual; TV y radio como fuentes principales de información" }
+            ]
+          },
+          {
+            "titulo": "El contexto: poca internet, mucha TV",
+            "texto": "En los años que van de 2007 a aproximadamente 2013, el acceso a internet en Ecuador era limitado: conexiones lentas, alto costo y baja penetración en zonas rurales y en sectores populares. La mayoría de la ciudadanía se informaba por televisión y radio. Quien controlaba un canal de señal abierta podía moldear el relato día a día. Eso hizo que medios como TC no solo \"criticaran\" al gobierno, sino que actuaran como plataforma de la oposición política y económica: editoriales, titulares y programas de opinión construyeron una narrativa constante de desgaste. La ausencia de contrapesos informativos (redes sociales y medios alternativos aún incipientes) amplificaba el efecto de ese relato.",
+            "datos": [
+              { "label": "Penetración de internet (Ecuador, ~2010)", "valor": "Muy baja en comparación con la TV abierta" },
+              { "label": "Fuente principal de noticias (encuestas de la época)", "valor": "Televisión en primer lugar" },
+              { "label": "Redes sociales", "valor": "Aún no masivas como contrapeso a la TV" }
+            ]
+          },
+          {
+            "titulo": "TC como arma de ataque y defensa de intereses",
+            "texto": "TC Televisión fue utilizada de manera sistemática para atacar a Rafael Correa y a su gobierno. No se trataba solo de \"libertad de expresión\": se documentaron campañas de desprestigio, titulares falsos o tendenciosos, y una cobertura desbalanceada que magnificaba escándalos o rumores y minimizaba logros en obra pública, educación o salud. Al mismo tiempo, el canal defendía los intereses del sector financiero y de los grupos económicos afines. Cuando el gobierno impulsaba leyes que tocaban a la banca (regulación, impuestos, auditoría de deuda), TC se convertía en altavoz de la oposición empresarial. La línea entre \"periodismo crítico\" y \"lobby mediático\" se volvió difusa. Episodios como la Ley de Comunicación, las consultas populares o los conflictos con el sector bancario mostraron a TC en primera fila, no como simple informador sino como parte del bloque opositor.",
+            "datos": [
+              { "label": "Ley de Comunicación", "valor": "TC y otros medios la combatieron como \"ley mordaza\"" },
+              { "label": "Renegociación de deuda y banca", "valor": "Cobertura alineada con el discurso de la banca y la oposición" },
+              { "label": "Programas de opinión", "valor": "Espacio constante para voces opositoras y críticas al gobierno" }
+            ]
+          },
+          {
+            "titulo": "Qué pasó después y por qué importa el registro",
+            "texto": "Con el tiempo, el acceso a internet y las redes sociales cambiaron el ecosistema mediático: la ciudadanía pudo contrastar versiones y acceder a más fuentes. Aun así, el caso de TC Televisión y Fidel Egas sigue siendo un ejemplo claro de cómo un medio privado, ligado al poder financiero, puede usarse como arma política y económica. Dejar constancia de ese rol no es \"perseguir\" a un medio: es aportar contexto para entender la historia reciente de Ecuador y la relación entre medios, banca y poder durante la Revolución Ciudadana.",
+            "datos": []
+          }
+        ],
+        "conclusion": "TC Televisión, bajo Fidel Egas y en el contexto de su vínculo con Banco Pichincha y el poder económico, funcionó como herramienta de ataque a Rafael Correa y de defensa de intereses corporativos. En una época con escaso acceso a internet, ese uso del medio tuvo un impacto enorme en la opinión pública. Este análisis busca aportar datos y contexto para un debate informado sobre el rol de los medios en la política ecuatoriana."
+      },
+      "citas": [
+        { "texto": "Fidel Egas mantuvo presencia en la órbita de Banco Pichincha y fue señalado en debates por el cruce entre propiedad mediática y poder financiero.", "fuente": "Prensa y registros de la Asamblea" },
+        { "texto": "En la época de menor penetración de internet, la TV abierta concentraba la formación de opinión en Ecuador.", "fuente": "Estudios de consumo mediático" },
+        { "texto": "TC Televisión fue uno de los canales que lideró la oposición mediática al gobierno de la Revolución Ciudadana.", "fuente": "Análisis de cobertura y monitoreo de medios" }
+      ],
+      "documentos": []
+    }
+  ]
+}
